@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rolando M. Majait</h1>
 <h3 align="center">A passionate Web Developer/UX Designer</h3>
 
-<p align="left"> <img src=https://www.google.com/imgres?q=gojo%20gif%20hondsome%20pose&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F61%2F67%2F89%2F6167892341c26edcbf15ac617c63cf4f.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F760475087082534670%2F&docid=KY2Nsqu_xVrL2M&tbnid=LPP4eKc8o_vRTM&vet=12ahUKEwjF7NCPxvaOAxVY1zQHHa4vJhIQM3oECCIQAA..i&w=498&h=371&hcb=2&ved=2ahUKEwjF7NCPxvaOAxVY1zQHHa4vJhIQM3oECCIQAA /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rolandomajait1-rgb" alt="rolandomajait1-rgb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rolandz" target="blank"><img src="https://img.shields.io/twitter/follow/rolandz?logo=twitter&style=for-the-badge" alt="rolandz" /></a> </p>
