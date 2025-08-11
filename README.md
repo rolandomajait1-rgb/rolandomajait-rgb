@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rolandomajait1-rgb/rolandomajait-rgb](https://github.com/rolandomajait1-rgb/rolandomajait-rgb)
 
-- 💬 Ask me about **blender,php,css and Html**
-
 - 📫 How to reach me **rolandomajait1@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGYZ6MiW3U/SpuPaCDZ0CfxHnlDPTetHw/edit](https://www.canva.com/design/DAGYZ6MiW3U/SpuPaCDZ0CfxHnlDPTetHw/edit)
