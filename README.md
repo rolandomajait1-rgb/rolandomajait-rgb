@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/rolandomajait1-rgb/rolandomajait-rgb)
 
-- 🌱 I’m currently learning **HTML,CSS,php,react.js,javascript,symfony,blender,Laravel**
+- 🌱 I’m currently learning **HTML,CSS,php,react.js,javascript,symfony,Laravel and blender**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rolandomajait1-rgb/rolandomajait-rgb](https://github.com/rolandomajait1-rgb/rolandomajait-rgb)
 
