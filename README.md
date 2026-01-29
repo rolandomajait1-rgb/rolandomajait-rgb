@@ -1,5 +1,5 @@
 
-<img src="sample 2.gif"/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Rolando%20Majait&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=WEB%20DEVELOPER%20UI%2FUX%20DESGINER%20&descSize=18&descAlignY=55&textBg=false"/>
 
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="sample 2.gif"/>
 
 ## 📌 About Me
 - passionate Web Developer dedicated to building seamless, user-centric digital experiences. I specialize in bridging the gap between clean code and intuitive design.
